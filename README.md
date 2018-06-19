@@ -1,4 +1,4 @@
-# Comparative-Approaches-to-Using-R-and-Python-for-Statistical-Data-Analysis-Python-Code
+# Comparative-Approaches-to-Using-R-and-Python-for-Statistical-Data-Analysis-R-Code
 
 (R Code by Chapter)
 
